@@ -1,0 +1,6 @@
+{
+  "name": "Dwdocs",
+  "tagline": "dwDocs",
+  "body": "# Structured documents\r\n\r\nSometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.\r\n\r\n### This is a third-tier heading\r\n\r\nYou can use one `#` all the way up to `######` six for different heading sizes.\r\n\r\nIf you'd like to quote someone, use the > character before the line:\r\n\r\n> Coffee. The finest organic suspension ever devised... I beat the Borg with it.\r\n> - Captain Janeway",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
