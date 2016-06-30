@@ -1,0 +1,4 @@
+site/*
+doc/*
+mkdocs.exe
+mkdocs-script.py
